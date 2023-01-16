@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @aemresafak
 - I am experienced with Java, Python, C++, and Kotlin.
-- 🌱 I’m currently improving myself on Android programming.
 - 📫 How to reach me -> aemresafak@gmail.com
