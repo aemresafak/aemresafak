@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aemresafak
-- I am experienced with Java, Python, C++, and Kotlin.
+- I am experienced with Java, Python, C++, Swift and Kotlin.
 - 📫 How to reach me -> aemresafak@gmail.com
