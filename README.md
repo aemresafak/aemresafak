@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aemresafak
 - I am experienced with Kotlin, Java, Python, and Swift.
 - I'm currently working at a FinTech company called Wamo as a Software Engineer.
-- I'm interested in LLM/AI solutions. I build AI agent and LLM application with python on my free time.
+- I'm interested in LLM/AI solutions. I build AI agents and LLM applications with python on my free time.
 - 📫 How to reach me -> aemresafak@gmail.com
